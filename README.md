@@ -79,7 +79,7 @@ Key control loops and differential equation modeling implemented in MATLAB:
 
 ## Repository Structure
 
-```text
+
 .
 ├── README.md
 ├── block_diagram.png
@@ -91,7 +91,8 @@ Key control loops and differential equation modeling implemented in MATLAB:
 ├── pid_tuning_comparison.png
 └── simulation_result.png
 
-How to Run
+
+##How to Run
 1.Open MATLAB.
 
 2.Set the working directory to the project folder containing matlab_simulation.m.
